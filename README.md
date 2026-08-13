@@ -14,6 +14,43 @@ This project automates the attendance process by recognizing a registered studen
 
 The system provides a graphical dashboard for managing students and viewing attendance information.
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+The main dashboard provides access to student registration, attendance, student management, and reporting features.
+
+### 👤 Student Registration
+
+![Student Registration](screenshots/register_student.png)
+
+The registration interface allows new students to enter their details and begin the face registration process.
+
+### ✏️ Edit Student Details
+
+![Edit Student](screenshots/edit_student.png)
+
+Student information such as name and roll number can be updated through the edit interface.
+
+### 📋 Attendance Reports
+
+![Attendance Reports](screenshots/attendance_reports.png)
+
+The attendance reports section displays attendance statistics, student records, attendance times, and provides CSV and Excel export options.
+
+### 📊 Attendance Analytics
+
+![Attendance Analytics](screenshots/attendance_analytics.png)
+
+The analytics section provides visual representations of attendance distribution and attendance counts.
+
+> **Privacy Note:** Screenshots included in this repository use fictional demonstration data. Face images, biometric data, and personal attendance records are intentionally excluded from the public repository.
+
+
 ### Main Workflow
 
 ```text
